@@ -11,7 +11,7 @@ body {
   font-family: 'Dosis', sans-serif;
 }
 .masthead {
-  background-image: url("../images/beetle.svg"), url("../images/beetle.svg"), url("../images/waves.png");
+  background-image: url("../assets/beetle.svg"), url("../assets/beetle.svg"), url("../assets/waves.png");
   background-size: 70px auto, 70px auto, 100px auto;
   background-repeat: no-repeat, no-repeat, repeat;
   background-position: left top 20px, right top 20px, center 10px;
